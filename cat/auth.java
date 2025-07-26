@@ -4,7 +4,7 @@ import javax.swing.*;
 import javax.swing.text.JTextComponent;
 
 
-public class cat {
+public class auth {
       public static void main(String[] args) {
       
         JFrame loginFrame=new JFrame("Login Form");
