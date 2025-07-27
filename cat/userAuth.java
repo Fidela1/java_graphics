@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.ResultSet;
 
-public class exercise {
+public class userAuth {
    public static void main(String[] args){
     
             JFrame createuser_frame = new JFrame("Create user form");
