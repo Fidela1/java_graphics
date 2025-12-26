@@ -62,7 +62,7 @@ public class student {
         panel.add(btnCalcPerc);
 
         JLabel lblGrade = new JLabel("Grade :");
-        lblGrade.setBounds(20, 150, 100, 20);
+        lblGrade.setBounds(20, 120, 100, 20);
         panel.add(lblGrade);
 
         JTextField txtGrade = new JTextField();

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "employee",
+            "request": "launch",
+            "mainClass": "employee",
+            "projectName": "cat_a96a5053"
+        },
+        {
+            "type": "java",
             "name": "exercise",
             "request": "launch",
             "mainClass": "exercise",
